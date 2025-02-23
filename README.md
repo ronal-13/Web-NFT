@@ -4,7 +4,7 @@ Este es un componente de tarjeta de vista previa de NFT, creado como parte de un
 
 ## Vista previa
 
-![Vista previa del componente NFT](https://web-nft-sigma.vercel.app/)
+![Vista previa del componente NFT](.https://web-nft-sigma.vercel.app/)
 
 ## Características
 
